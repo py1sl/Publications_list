@@ -1,4 +1,4 @@
-# S Lilley Academic publications list
+# S Lilley Academic Publications
 
 ## 2022
 ## 2021
@@ -13,18 +13,3 @@
 ## 2012
 ## 2011
 ## 2010
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
