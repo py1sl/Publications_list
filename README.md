@@ -10,27 +10,51 @@
 ## 2020
 - Solid Methane Moderators: Thermodynamics and Chemistry,  
 - Shielding considerations for ESS LoKI, 
-- Discovery of new neutron-moderating materials at ISIS Neutron and Muon Source 
+- Discovery of new neutron-moderating materials at ISIS Neutron and Muon Source,  
+  G. Skoro, G. Romanelli,  S Rudi\'{}c, S. Lilley and F. Fernandez-Alonso,  
+  EPJ Web Conf, 239, 2020,  
+  https://doi.org/10.1051/epjconf/202023917008 
 ## 2019
 
 ## 2018
-- Neutronics analysis of target, moderators and reflector design for the ISIS TS-1 project
+- Neutronics analysis of target, moderators and reflector design for the ISIS TS-1 project,  
+  Goran Škoro, Steven Lilley and Robert Bewley,  
+  Physica B: Condensed Matter, 551, 381-385, 2018,  
+  (https://doi.org/10.1016/j.physb.2017.12.060)
 - A tale of two foils: ISIS TS-1 water moderators,  
 ## 2017
 - Benchmarking comparison and validation of MCNP photon interaction data,
 - 14 MeV calibration of JET neutron detectors phase 1: calibration and characterization of the neutron source,    
 ## 2016
-- Technological exploitation of Deuterium–Tritium operations at JET in support of ITER design, operation and safety
-- Reducing beryllium content in mixed bed solid-type breeder blankets
-- Neutronics experiments and analyses in preparation of DT operations at JET
-- Experience of handling beryllium, tritium and activated components from {ET ITER like wall
+- Technological exploitation of Deuterium–Tritium operations at JET in support of ITER design, operation and safety,  
+  P. Batistoni et al,  
+  Fusion Engineering and Design, 109-111, 895-905, 2016,  
+  (https://doi.org/10.1016/j.fusengdes.2016.03.012),  
+- Reducing beryllium content in mixed bed solid-type breeder blankets,  
+  J. Shimwell et al,  
+  Fusion Engineering and Design, 109-111, 895-905, 2016,  
+  https://doi.org/10.1016/j.fusengdes.2015.11.021,  
+- Neutronics experiments and analyses in preparation of DT operations at JET,  
+  R. Villari et al,  
+  Fusion Engineering and Design, 109-111, 895-905, 2016,  
+  (https://doi.org/10.1016/j.fusengdes.2016.01.055),  
+- Experience of handling beryllium, tritium and activated components from {ET ITER like wall,  
+  A Widdowson et al,  
+  Physica Scripta, 167, 2016,  
+  (https://doi.org/10.1088/0031-8949/t167/1/014057)
 - Diagnostics and control for the steady state and pulsed tokamak DEMO
 - A parameter study of time-varying tritium production in solid-type breeder blankets
 
 ## 2015
 - Benchmark experiments on neutron streaming through JET Torus Hall penetrations
-- Spatially and temporally varying tritium generation in solid-type breeder blankets
-- Movement of active components in the shutdown dose rate analysis of the ITER neutral beam injectors
+- Spatially and temporally varying tritium generation in solid-type breeder blankets,  
+  J. Shimwell et al,  
+  Fusion Engineering and Design, 98-99, 1868-1871,  2015,  
+  (https://doi.org/10.1016/j.fusengdes.2015.04.018)
+- Movement of active components in the shutdown dose rate analysis of the ITER neutral beam injectors,  
+  Tim Eade, Steven Lilley, Zamir Ghani and Etienne Delmas,    
+  Fusion Engineering and Design, 98-99, 1868-1871,  2015,  
+  (https://doi.org/10.1016/j.fusengdes.2014.12.022)
 - Neutronics experiments, radiation detectors and nuclear techniques development in the EU in support of the TBM design for ITER,  
   M. Angelone et al,  
   Fusion Engineering and Design, 96-97, 2-7, 2015,  
