@@ -1,9 +1,18 @@
 # S Lilley Academic Publications
 
 ## 2022
+- Monte Carlo simulations of ISIS Target Station 1 using FLUKA and comparison with the MCNPX reference model,  
+  L. Quintieri & S. Lilley,  
+  Proceedings of SATIF-14, 2018,  
 
 ## 2021
-- Hybrid halide perovskite neutron detectors
+- Measurements of neutron fields in a wide energy range using multi-foil activation analysis,  
+  D Chiesa et al,  
+  IEEE Transactions on Nuclear Science, December 2021,  
+- Hybrid halide perovskite neutron detectors,
+  P. Andričević et al,  
+  Sci Rep 11, 17159 (2021)  
+  https://doi.org/10.1038/s41598-021-95586-3
 - csg2csg: A TOOL TO ASSIST VALIDATION & VERIFICATION,  
   A. Davis, S. Lilley and J. Shimwell,  
   EPJ Web Conf, 247, 2021, 
@@ -15,7 +24,9 @@
 
 ## 2020
 - Solid Methane Moderators: Thermodynamics and Chemistry,  
+  O. Kirichek et al,  
 - Shielding considerations for ESS LoKI, 
+  g Nafradi et al,  
 - Discovery of new neutron-moderating materials at ISIS Neutron and Muon Source,  
   G. Škoro, G. Romanelli,  S. Rudic, S. Lilley and F. Fernandez-Alonso,  
   EPJ Web Conf, 239, 2020,  
@@ -56,7 +67,7 @@
   R. Villari et al,  
   Fusion Engineering and Design, 109-111, 895-905, 2016,  
   https://doi.org/10.1016/j.fusengdes.2016.01.055,  
-- Experience of handling beryllium, tritium and activated components from {ET ITER like wall,  
+- Experience of handling beryllium, tritium and activated components from JET ITER like wall,  
   A. Widdowson et al,  
   Physica Scripta, 167, 2016,  
   https://doi.org/10.1088/0031-8949/t167/1/014057
