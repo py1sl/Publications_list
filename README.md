@@ -25,8 +25,10 @@
 ## 2020
 - Solid Methane Moderators: Thermodynamics and Chemistry,  
   O. Kirichek et al,  
+  https://content.iospress.com/articles/journal-of-neutron-research/jnr190132
 - Shielding considerations for ESS LoKI, 
   g Nafradi et al,  
+  https://content.iospress.com/articles/journal-of-neutron-research/jnr200152  
 - Discovery of new neutron-moderating materials at ISIS Neutron and Muon Source,  
   G. Škoro, G. Romanelli,  S. Rudic, S. Lilley and F. Fernandez-Alonso,  
   EPJ Web Conf, 239, 2020,  
