@@ -5,12 +5,12 @@
 ## 2022
 - Monte Carlo simulations of ISIS Target Station 1 using FLUKA and comparison with the MCNPX reference model,  
   L. Quintieri & S. Lilley,  
-  Proceedings of SATIF-14, 2018,  
-
-## 2021
+  Proceedings of SATIF-14, 2018, 
 - Measurements of neutron fields in a wide energy range using multi-foil activation analysis,  
   D Chiesa et al,  
-  IEEE Transactions on Nuclear Science, December 2021,  
+  IEEE Transactions on Nuclear Science, July 2022, 
+
+## 2021
 - Hybrid halide perovskite neutron detectors,
   P. Andričević et al,  
   Sci Rep 11, 17159 (2021)  
