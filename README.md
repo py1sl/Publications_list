@@ -8,7 +8,8 @@
   Proceedings of SATIF-14, 2018, 
 - Measurements of neutron fields in a wide energy range using multi-foil activation analysis,  
   D Chiesa et al,  
-  IEEE Transactions on Nuclear Science, July 2022, 
+  IEEE Transactions on Nuclear Science, July 2022,  
+  https://ieeexplore.ieee.org/document/9665389
 
 ## 2021
 - Hybrid halide perovskite neutron detectors,
@@ -17,10 +18,10 @@
   https://doi.org/10.1038/s41598-021-95586-3
 - csg2csg: A TOOL TO ASSIST VALIDATION & VERIFICATION,  
   A. Davis, S. Lilley and J. Shimwell,  
-  EPJ Web Conf, 247, 2021, 
+  EPJ Web Conf, 247, 2021,  
   https://doi.org/10.1051/epjconf/202124704012
 - 14 MeV NEUTRON IRRADIATION EXPERIMENTS - GAMMA SPECTROSCOPY ANALYSIS AND VALIDATION AUTOMATION,  
-  T. Stainer et al,
+  T. Stainer et al,  
   EPJ Web Conf, 247, 2021,  
   https://doi.org/10.1051/epjconf/202124709010
 
