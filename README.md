@@ -3,6 +3,10 @@
 ## 2023
 
 ## 2022
+- MACHINE LEARNING FOR ANOMALY DETECTION IN CONTINUOUS SIGNALS,  
+  A. A. Soulis et al,  
+  18th Int. Conf. on Acc. and Large Exp. Physics Control Systems,  
+  https://inspirehep.net/files/18151fd250b2fdb7b8fae309e12fe072
 - Monte Carlo simulations of ISIS Target Station 1 using FLUKA and comparison with the MCNPX reference model,  
   L. Quintieri & S. Lilley,  
   Proceedings of SATIF-14, 2018, 
