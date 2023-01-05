@@ -16,7 +16,7 @@
   https://ieeexplore.ieee.org/document/9665389
 
 ## 2021
-- Hybrid halide perovskite neutron detectors,
+- Hybrid halide perovskite neutron detectors,  
   P. Andričević et al,  
   Sci Rep 11, 17159 (2021)  
   https://doi.org/10.1038/s41598-021-95586-3
@@ -33,8 +33,8 @@
 - Solid Methane Moderators: Thermodynamics and Chemistry,  
   O. Kirichek et al,  
   https://content.iospress.com/articles/journal-of-neutron-research/jnr190132
-- Shielding considerations for ESS LoKI, 
-  g Nafradi et al,  
+- Shielding considerations for ESS LoKI,  
+  G Nafradi et al,  
   https://content.iospress.com/articles/journal-of-neutron-research/jnr200152  
 - Discovery of new neutron-moderating materials at ISIS Neutron and Muon Source,  
   G. Škoro, G. Romanelli,  S. Rudic, S. Lilley and F. Fernandez-Alonso,  
