@@ -1,6 +1,11 @@
 # S Lilley Academic Publications
 
 ## 2023
+- Decay heat in ISIS spallation target: simulations and measurements,  
+  L Quintieri et al,  	10.3233/JNR-220030	journal-of-neutron-research,  
+  https://content.iospress.com/articles/journal-of-neutron-research/jnr220030,  
+
+
 
 ## 2022
 - MACHINE LEARNING FOR ANOMALY DETECTION IN CONTINUOUS SIGNALS,  
