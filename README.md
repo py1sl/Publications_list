@@ -4,7 +4,12 @@
 - Decay heat in ISIS spallation target: simulations and measurements,  
   L Quintieri et al,  	10.3233/JNR-220030	journal-of-neutron-research,  
   https://content.iospress.com/articles/journal-of-neutron-research/jnr220030,  
-
+- The MIGDAL experiment: Measuring a rare atomic process to aid the search for dark matter,  
+  H.M. Araújo et al,  
+  Astroparticle Physics,  
+  Volume 151,  
+  2023,  
+  https://doi.org/10.1016/j.astropartphys.2023.102853.
 
 
 ## 2022
