@@ -10,7 +10,8 @@
   https://doi.org/10.1016/j.astropartphys.2023.102853.
 - Characterization Measurements of Compact Neutron Generators of the New NILE Facility,  
   C. Cazzaniga et al,  
-  IEEE Transactions on Nuclear Science, doi: 10.1109/TNS.2023.3293797  
+  IEEE Transactions on Nuclear Science, doi: 10.1109/TNS.2023.3293797,
+  https://ieeexplore.ieee.org/document/10180224    
 
 
 ## 2022
