@@ -5,11 +5,12 @@
   L Quintieri et al,  	10.3233/JNR-220030	journal-of-neutron-research,  
   https://content.iospress.com/articles/journal-of-neutron-research/jnr220030,  
 - The MIGDAL experiment: Measuring a rare atomic process to aid the search for dark matter,  
-  H.M. Araújo et al,  
-  Astroparticle Physics,  
-  Volume 151,  
-  2023,  
+  H.M. Araújo et al,
+  Astroparticle Physics, Volume 151, 2023,  
   https://doi.org/10.1016/j.astropartphys.2023.102853.
+- Characterization Measurements of Compact Neutron Generators of the New NILE Facility,  
+  C. Cazzaniga et al,  
+  IEEE Transactions on Nuclear Science, doi: 10.1109/TNS.2023.3293797  
 
 
 ## 2022
