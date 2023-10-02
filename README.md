@@ -11,7 +11,7 @@
   https://doi.org/10.1016/j.astropartphys.2023.102853.
 - Characterization Measurements of Compact Neutron Generators of the New NILE Facility,  
   C. Cazzaniga et al,  
-  IEEE Transactions on Nuclear Science, doi: 10.1109/TNS.2023.3293797,
+  IEEE Transactions on Nuclear Science, doi: 10.1109/TNS.2023.3293797,  
   https://ieeexplore.ieee.org/document/10180224    
 
 
@@ -154,8 +154,17 @@
   S. Zheng, R. Pampin, S. Lilley, B. C. Na, M. J. Loughlin, N. P. Taylor and V. Barabash  
   Fusion Science and Technology, 61, 2, 167-171, 2012,  
   https://doi.org/10.13182/FST12-A13384
-- Activation analyses updating the ITER radioactive waste assessment,  
+- Activation analyses updating the ITER radioactive waste assessment,
   R. Pampin, S. Zheng, S. Lilley, B.C. Na, M.J. Loughlin and N.P. Taylor,  
   Fusion Engineering and Design, 87, 5, 1230-1234, 2012,  
   https://doi.org/10.1016/j.fusengdes.2012.02.110
 
+## Other Contributions
+- IAEA Techdoc 1743 - Compendium of Neutron Beam Facilities for high Precision Nuclear Data Measurements,  
+  2014,    
+  Contribution - Nuclear data capabilities at the ASP Neutron Generator,  
+  https://www.iaea.org/publications/10738/compendium-of-neutron-beam-facilities-for-high-precision-nuclear-data-measurements
+  
+- IAEA Techdoc 2025 - Cold Neutron Sources - Practical considerations and Modern research,  
+  2023,  
+  https://www.iaea.org/publications/15409/cold-neutron-sources-practical-considerations-and-modern-research
