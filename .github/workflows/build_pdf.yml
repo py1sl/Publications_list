@@ -17,8 +17,8 @@ jobs:
 
     - name: Compile LaTeX document
       run: |
-        xelatex -interaction=nonstopmode -halt-on-error lib.tex
-        xelatex -interaction=nonstopmode -halt-on-error lib.tex
+        xelatex -interaction=nonstopmode -halt-on-error latex/lib.tex
+        xelatex -interaction=nonstopmode -halt-on-error latex/lib.tex
 
     - name: Upload PDF artifact
       uses: actions/upload-artifact@v2
