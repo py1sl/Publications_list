@@ -18,7 +18,7 @@ jobs:
     - name: Compile LaTeX document
       run: |
         xelatex -interaction=nonstopmode -halt-on-error latex/lib.tex
-        bibtex lib
+        bibtex latex/lib
         xelatex -interaction=nonstopmode -halt-on-error latex/lib.tex
         xelatex -interaction=nonstopmode -halt-on-error latex/lib.tex
 
