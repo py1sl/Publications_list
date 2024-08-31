@@ -2,8 +2,8 @@
 
 
 ## 2024
-- Fast Neutron Measurements for the Characterization of the ChipIr Beamline,
-  C. Cazzaniga, et al,
+- Fast Neutron Measurements for the Characterization of the ChipIr Beamline,  
+  C. Cazzaniga, et al,  
   IEEE Transactions on Nuclear Science, vol. 71, no. 8, pp. 1520-1526, Aug. 2024,  
   doi: 10.1109/TNS.2024.341654,  
   https://ieeexplore.ieee.org/document/10566045  
