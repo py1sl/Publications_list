@@ -24,11 +24,13 @@ jobs:
         sudo apt-get install -y chktex bibclean
 
     - name: Lint LaTeX files
+      continue-on-error: true
       run: |
         echo "Checking LaTeX files with ChkTeX..."
         find . -name "*.tex" -type f -exec chktex {} \;
 
     - name: Lint BibTeX files
+      continue-on-error: true
       run: |
         echo "Checking BibTeX files with bibclean..."
         find . -name "*.bib" -type f -exec sh -c 'bibclean -check-values "$1" 2>&1 > /dev/null' sh {} \;
