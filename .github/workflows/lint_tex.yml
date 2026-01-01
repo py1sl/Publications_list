@@ -1,0 +1,40 @@
+name: Lint TeX and BibTeX files
+
+on:
+  push:
+    paths:
+      - '**.tex'
+      - '**.bib'
+  pull_request:
+    paths:
+      - '**.tex'
+      - '**.bib'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Install linters
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y chktex bibclean
+
+    - name: Lint LaTeX files
+      run: |
+        echo "Checking LaTeX files with ChkTeX..."
+        find . -name "*.tex" -type f | while read file; do
+          echo "Linting $file"
+          chktex "$file"
+        done
+
+    - name: Lint BibTeX files
+      run: |
+        echo "Checking BibTeX files with bibclean..."
+        find . -name "*.bib" -type f | while read file; do
+          echo "Linting $file"
+          bibclean -check-values "$file" > /dev/null
+        done
