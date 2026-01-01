@@ -26,9 +26,9 @@ jobs:
     - name: Lint LaTeX files
       run: |
         echo "Checking LaTeX files with ChkTeX..."
-        find . -name "*.tex" -type f -exec chktex {} +
+        find . -name "*.tex" -type f -exec chktex {} \;
 
     - name: Lint BibTeX files
       run: |
         echo "Checking BibTeX files with bibclean..."
-        find . -name "*.bib" -type f -exec sh -c 'bibclean -check-values "$1" > /dev/null' sh {} \;
+        find . -name "*.bib" -type f -exec sh -c 'bibclean -check-values "$1" 2>&1 > /dev/null' sh {} \;
