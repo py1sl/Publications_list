@@ -1,4 +1,10 @@
 # S Lilley Academic Publications
+## 2025
+- Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection,  
+ Schueler, J. et al,  
+ Phys. Rev. D, 111, 7, 
+ doi = {10.1103/PhysRevD.111.072004,  
+ https://link.aps.org/doi/10.1103/PhysRevD.111.072004,  
 
 
 ## 2024
