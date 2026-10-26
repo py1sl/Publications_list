@@ -149,7 +149,11 @@
   D. Leichtle et al,  
   Fusion Engineering and Design, 89, 9, 2169-2173, 2014,  
   https://doi.org/10.1016/j.fusengdes.2014.02.056
-
+- Neutron Irradiation Experiments: Automated Processing and Analysis of γ-spectra,  
+  M.R. Gilbert, L.W. Packer, S. Lilley,  
+  Nuclear Data Sheets, Volume 119, Pages 401-403, 2014,    
+  https://doi.org/10.1016/j.nds.2014.08.112.  
+  
 ## 2013
 - Improved modelling of the neutron spectrum for the ASP accelerator,  
   S. Lilley, L.W. Packer, R. Pampin and M. Gilbert,  
