@@ -1,9 +1,26 @@
 # S Lilley Academic Publications
+## 2026
+- Monte Carlo Predictions of Radiation Damage in the ISIS TS1 Target,  
+  L Quintieri et al,  
+  J. Phys.: Conf. Ser. 3339 012014, 2026,  
+  doi: 10.1088/1742-6596/3339/1/012014,  
+  https://iopscience.iop.org/article/10.1088/1742-6596/3339/1/012014,
+- Monte Carlo Investigation of SPNDs for the Monitoring of the Position of the ISIS Proton Beam,  
+  Katherina Gelborova, Steven Lilley and Lina Quintieri,  
+  J. Phys.: Conf. Ser. 3339 012021, 2026,  
+  DOI: 10.1088/1742-6596/3339/1/012021  
+  https://iopscience.iop.org/article/10.1088/1742-6596/3339/1/012021
+- FETS–METS: A Test Stand for the Development of Moderator Systems    
+  Alexandra Chrysafi, Paul Morgan, Steven Lilley, Stephen Gallimore and Stephen Jago,  
+  J. Phys.: Conf. Ser. 3339 012032,  
+  DIO:10.1088/1742-6596/3339/1/012032,  
+  https://iopscience.iop.org/article/10.1088/1742-6596/3339/1/012032    
+       
 ## 2025
 - Transforming a rare event search into a not-so-rare event search in real-time with deep learning-based object detection,  
  Schueler, J. et al,  
  Phys. Rev. D, 111, 7, 
- doi = {10.1103/PhysRevD.111.072004,  
+ doi: 10.1103/PhysRevD.111.072004,  
  https://link.aps.org/doi/10.1103/PhysRevD.111.072004,  
 
 
